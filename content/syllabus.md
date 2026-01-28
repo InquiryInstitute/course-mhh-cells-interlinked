@@ -16,10 +16,11 @@
 | 2 | Aug 10-14 | 02: Corporate Optimization | Institutional gaming | Case analysis |
 | 3-4 | Aug 17-28 | 03: The Examiner's Doubt | When testers doubt | Dialogue exercise |
 | 5-6 | Aug 31-Sep 11 | 04: Detector Breakdown | Adversarial collapse | Technical analysis |
-| 7-8 | Sep 14-25 | 05: Trust Networks | Alternative architectures | Design proposal |
-| 9-10 | Sep 28-Oct 9 | 06: Process Verification | Provenance over product | Implementation |
-| 11 | Oct 12-16 | 07: Refusal Protocols | Ethics of declining | Refusal design |
-| 12 | Oct 19-23 | 08: Living with Uncertainty | Post-detection world | Position paper |
+| 7-8 | Sep 14-25 | 05: Building Empathetic Systems | Engineering artificial empathy | Empathy engine |
+| 9 | Sep 28-Oct 2 | 06: Trust Networks | Alternative architectures | Design proposal |
+| 10 | Oct 5-9 | 07: Process Verification | Provenance over product | Implementation |
+| 11 | Oct 12-16 | 08: Refusal Protocols | Ethics of declining | Refusal design |
+| 12 | Oct 19-23 | 09: Living with Uncertainty | Post-detection world | Position paper |
 | 13 | Oct 26-30 | Capstone | Final development | Capstone submission |
 | 14 | Nov 2-6 | Examination | The Baseline Test | Oral defense |
 
@@ -107,28 +108,49 @@ Heretic seat: a.shannon
 
 ---
 
-### Week 7-8: Trust Networks
+### Week 7-8: Building Empathetic Systems
 **Sep 14-25, 2026**
+
+You've studied how empathy is tested. Now build systems designed to exhibit it.
+
+**Reading:**
+- Picard, R. (2000). "Toward Machines That Deny Their Feelings"
+- Turkle, S. (2011). *Alone Together*, Chapter on "Sociable Robots"
+- Rashkin et al. (2019). "Towards Empathetic Conversation Models"
+- Ishiguro, *Klara and the Sun* (complete)
+
+**Technical Work:**
+- Build emotion detection pipeline
+- Build empathetic response generator
+- Design empathy evaluation framework
+
+**Deliverable:** Working empathy engine + 1000-word reflection
+
+**Symposium 4:** Engineering Artificial Empathy  
+*Tuesday, Sep 22, 6-8 PM Pacific*  
+Heretic seat: a.weizenbaum
+
+**Due:** Friday, Sep 25
+
+---
+
+### Week 9: Trust Networks
+**Sep 28 – Oct 2, 2026**
 
 If we can't detect, can we trust? Alternative architectures: attestation, provenance, reputation.
 
 **Reading:**
 - Selected papers on content authenticity (C2PA)
 - Blockchain-based verification systems
-- Ishiguro, *Klara and the Sun* (complete)
 
-**Deliverable:** Design proposal for a trust-based verification system (2000 words)
+**Deliverable:** Design proposal for a trust-based verification system (1500 words)
 
-**Symposium 4:** Trust Without Detection  
-*Tuesday, Sep 22, 6-8 PM Pacific*  
-Heretic seat: a.arendt
-
-**Due:** Friday, Sep 25
+**Due:** Friday, Oct 2
 
 ---
 
-### Week 9-10: Process Verification
-**Sep 28 – Oct 9, 2026**
+### Week 10: Process Verification
+**Oct 5-9, 2026**
 
 Verifying how something was made, not what it is. Proof of work, proof of humanity.
 
